@@ -1,1 +1,0 @@
-import{d as a,c as _,a as o,u as l,b as n,o as r}from"./index-Bom8sDCR.js";const i={style:{display:"flex"}},m=a({__name:"index",setup(p){let t=e=>{console.log("选中城市",e)};return(e,d)=>{const s=n("chooseStandbyCity"),c=n("chooseCity");return r(),_("div",i,[o(s,{onChange:l(t)},null,8,["onChange"]),o(c)])}}});export{m as default};
